@@ -13,8 +13,7 @@ A sophisticated, ultra-modern calculator app with a glassmorphic, black-on-stone
 - **No Scrolling**: All navigation via a top navbar for a focused, fast experience
 - **PWA**: Installable as a Progressive Web App for offline use
 
-## Screenshots
-> ![screenshot](docs/screenshot.png) <!-- Add your screenshot here if available -->
+
 
 ## Getting Started
 
